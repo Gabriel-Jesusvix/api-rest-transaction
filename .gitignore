@@ -1,0 +1,15 @@
+## Lib
+node_modules
+
+
+## Database
+db/*.db
+
+## APP
+
+#build
+build
+
+#Environment
+.env
+.env.test
